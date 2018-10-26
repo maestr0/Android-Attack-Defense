@@ -11,7 +11,7 @@ d2j-dex2jar classes.dex
 This creates a files named `classes_dex2jar.jar` which we can then open using the GUI tool for exploring .jar files called `jd-gui`:
 
 ```
-jd-gui classes_dex2jar.jar
+jd-gui classes-dex2jar.jar
 ```
 
 Take some time to browse the classes in the applications in jd-gui. Did you find anything interesting or revealing about the application?
